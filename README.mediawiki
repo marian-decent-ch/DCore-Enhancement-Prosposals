@@ -1,8 +1,8 @@
-# DCore-Enhancement-Prosposals
+==DCore-Enhancement-Prosposals==
 
 DCore Enhancement Proposals (DCEPs) describe standards for the DCore platform, such as: core protocol specifications, client APIs, and another standards. 
 
-# Contributing
+==Contributing==
 
 First read DCEP#1. Then pull the repository and add your DCEP by following template. Finally, submit a Pull Request to this repository.
 
