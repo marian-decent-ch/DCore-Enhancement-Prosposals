@@ -1,0 +1,12 @@
+<pre>
+  DCEP: #1
+  Title: DCEP Guidelines
+  Author: Marian Podmajersky <marian@decent.ch>
+  Type: Guide
+  Status: Active
+  Created: 2018-28-3
+</pre>
+
+==What is a DCEP?==
+
+DCEP stands for DCore Enhancement Proposal. A DCEP is a design/specification document that aims to improve and to update current state of the project. Also, new feature request shall be proposed via DCEPs.
