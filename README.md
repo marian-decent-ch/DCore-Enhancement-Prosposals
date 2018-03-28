@@ -13,10 +13,9 @@ First read DCEP#1. Then pull the repository and add your DCEP by following templ
 !Type
 !Status
 |-
-| [[dcep-1.mediawiki|1]]
+| dcep#1.mediawiki
 | DCEP Purpose and Guidelines
 | Marian Podmajersky
 | Guide
 | Active
-|-
 |}
