@@ -13,7 +13,7 @@ First read DCEP#1. Then pull the repository and add your DCEP by following templ
 !Type
 !Status
 |-
-| [[dcep%2311.mediawiki|#1]]
+| [[dcep%231.mediawiki|#1]]
 | DCEP Purpose and Guidelines
 | Marian Podmajersky
 | Guide
