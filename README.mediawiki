@@ -18,4 +18,5 @@ First read DCEP#1. Then pull the repository and add your DCEP by following templ
 | Marian Podmajersky
 | Guide
 | Active
+|-
 |}
